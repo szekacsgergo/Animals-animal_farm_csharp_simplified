@@ -1,0 +1,11 @@
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\bin\Debug\Allatok_Sorting.exe.config
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\bin\Debug\Allatok_Sorting.exe
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\bin\Debug\Allatok_Sorting.pdb
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\obj\Debug\Allatok_Sorting.csproj.AssemblyReference.cache
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\obj\Debug\Allatok_Sorting.csproj.SuggestedBindingRedirects.cache
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\obj\Debug\Allatok_Sorting.Allatfarm.resources
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\obj\Debug\Allatok_Sorting.Properties.Resources.resources
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\obj\Debug\Allatok_Sorting.csproj.GenerateResource.cache
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\obj\Debug\Allatok_Sorting.csproj.CoreCompileInputs.cache
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\obj\Debug\Allatok_Sorting.exe
+A:\csharp\C-Fodor-orai-main\yes\Solo-dolo\Allatok_Sorting\Allatok_Sorting\obj\Debug\Allatok_Sorting.pdb

@@ -1,0 +1,12 @@
+Állat neve;Állat súlya;Állat átlag életkora;Állat fajtája
+Házi egér;0,3;3;Egér
+Oroszlán (hím);193,3;15;Macska
+Oroszlán (nőstény);139,8;15;Macska
+Apró észak-amerikai törpenyúl;0,46;3;Nyúl
+Mezei nyúl;2,5;5;Nyúl
+Mexikói axolotl;0,3;25;Axolotl
+Rövidfarkú csincsilla;0,6;10;Csincsilla
+Óriáspanda;120;20;Panda
+Kurtafarkú kenguru;5;5;Kenguru
+Zöld anakonda;97,5;10;Kígyó
+Perzsa macska;3,5;12;Macska
